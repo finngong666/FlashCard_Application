@@ -1,0 +1,46 @@
+.buttonLeft
+{
+    -fx-background-color:  #F7B0BB;
+    -fx-background-radius: 30 0 0 30;
+}
+.buttonLeft:hover
+{
+    -fx-background-color: #F7F7F7;
+    -fx-background-radius: 30 0 0 30;
+}
+.buttonLeft:pressed
+{
+    -fx-background-color: #F7B0BB;
+    -fx-background-radius: 30 0 0 30;
+}
+.buttonRight
+{
+    -fx-background-color:  #F7B0BB;
+    -fx-background-radius: 0 30 30 0;
+}
+.buttonRight:hover
+{
+    -fx-background-color: #F7F7F7;
+    -fx-background-radius: 0 30 30 0;
+}
+.buttonRight:pressed
+{
+    -fx-background-color: #F7B0BB;
+    -fx-background-radius: 0 30 30 0;
+}
+
+.showAnswer
+{
+    -fx-background-color:  #F7B0BB;
+    -fx-background-radius: 30 30 30 30;
+}
+.showAnswer:hover
+{
+    -fx-background-color: #F7F7F7;
+    -fx-background-radius: 30 30 30 30;
+}
+.showAnswer:pressed
+{
+    -fx-background-color: #F7B0BB;
+    -fx-background-radius: 30 30 30 30;
+}
